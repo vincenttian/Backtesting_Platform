@@ -1,0 +1,27 @@
+Thomson Reuters QSE Programming Exercise
+
+In this project, I wrote a software library to backtest a simplified portfolio trading strategy. By “backtest” I simply mean that I will implement a portfolio trading strategy and measure its performance on a historical dataset. I was given data on a subset of North American securities from 2008 and a small class library to use to access this data. 
+
+I implemented a backtesting function that calculates a stocks cumulative return, average return, Sharpe Ratio, number of up months, number of down months, and maximum drawdown of the strategy.
+
+I tested strategies involving holding the S&P 500, holding stocks where earnings quality>75, analyst revisions model>90, and relative valuation>50, holding stocks in a certain industry, and holding 500 random stocks.
+
+The account_manager.py file creates and manages the investment portfolio using SQL. 
+
+For my code to run smoothly, initialize the sqlite3 database as follows:
+
+$ python load_data.py # loads the database (sample strategy of holding 1 Apple stock every month is provided)
+$ python strategy_sp500.py # adds S&P 500 strategy (for Sharpe ratio purpose, add as 2nd account)
+
+When strategies are added, analysis of each added strategy is provided. Any strategy can be added next, including:
+
+$ python strategy_signals.py 
+$ python strategy_random500.py
+$ python strategy_industry.py
+$ python strategy_summer_vacation.py
+
+To find the analysis and Sharpe ratio of all strategies in the account portfolio, run:
+
+$ python account_metrics.py
+
+

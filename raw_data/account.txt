@@ -1,0 +1,1 @@
+1	3	Invest 1 unit of fund into Apple on each month

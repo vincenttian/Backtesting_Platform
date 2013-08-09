@@ -1,0 +1,101 @@
+10	Energy
+1010	Energy
+101010	Energy Equipment & Services
+101020	Oil, Gas & Consumable Fuels
+15	Materials
+1510	Materials
+151010	Chemicals
+151020	Construction Materials
+151030	Containers & Packaging
+151040	Metals & Mining
+151050	Paper & Forest Products
+20	Industrials
+2010	Capital Goods
+201010	Aerospace & Defense
+201020	Building Products
+201030	Construction & Engineering
+201040	Electrical Equipment
+201050	Industrial Conglomerates
+201060	Machinery
+201070	Trading Companies & Distributors
+2020	Commercial Services & Supplies
+202010	Commercial Services & Supplies
+2030	Transportation
+203010	Air Freight & Logistics
+203020	Airlines
+203030	Marine
+203040	Road & Rail
+203050	Transportation Infrastructure
+25	Consumer Discretionary
+2510	Automobiles & Components
+251010	Auto Components
+251020	Automobiles
+2520	Consumer Durables & Apparel
+252010	Household Durables
+252020	Leisure Equipment & Products
+252030	Textiles, Apparel & Luxury Goods
+2530	Consumer Services
+253010	Hotels, Restaurants & Leisure
+253020	Diversified Consumer Services
+2540	Media
+254010	Media
+2550	Retailing
+255010	Distributors
+255020	Internet & Catalog Retail
+255030	Multiline Retail
+255040	Specialty Retail
+30	Consumer Staples
+3010	Food & Staples Retailing
+301010	Food & Staples Retailing
+3020	Food, Beverage & Tobacco
+302010	Beverages
+302020	Food Products
+3030	Household & Personal Products
+302030	Tobacco
+303010	Household Products
+303020	Personal Products
+35	Health Care
+3510	Health Care Equipment & Services
+351010	Health Care Equipment & Supplies
+351020	Health Care Providers & Services
+351030	Health Care Technology
+3520	Pharmaceuticals, Biotechnology & Life Sciences
+352010	Biotechnology
+352020	Pharmaceuticals
+352030	Life Sciences Tools & Services
+40	Financials
+4010	Banks
+401010	Commercial Banks
+401020	Thrifts & Mortgage Finance
+4020	Diversified Financials
+402010	Diversified Financial Services
+402020	Consumer Finance
+402030	Capital Markets
+4030	Insurance
+403010	Insurance
+4040	Real Estate
+404020	Real Estate Investment Trusts (REITs)
+404030	Real Estate Management & Development
+45	Information Technology
+4510	Software & Services
+451010	Internet Software & Services
+451020	IT Services
+451030	Software
+4520	Technology Hardware & Equipment
+452010	Communications Equipment
+452020	Computers & Peripherals
+452030	Electronic Equipment & Instruments
+452040	Office Electronics
+4530	Semiconductors & Semiconductor Equipment
+453010	Semiconductors & Semiconductor Equipment
+50	Telecommunication Services
+5010	Telecommunication Services
+501010	Diversified Telecommunication Services
+501020	Wireless Telecommunication Services
+55	Utilities
+5510	Utilities
+551010	Electric Utilities
+551020	Gas Utilities
+551030	Multi-Utilities
+551040	Water Utilities
+551050	Independent Power Producers & Energy Traders
