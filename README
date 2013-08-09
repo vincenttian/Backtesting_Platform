@@ -1,5 +1,5 @@
 Thomson Reuters QSE Programming Exercise
-=======
+========================================
 
 In this project, I wrote a software library to backtest a simplified portfolio trading strategy. By “backtest” I simply mean that I will implement a portfolio trading strategy and measure its performance on a historical dataset. I was given data on a subset of North American securities from 2008 and a small class library to use to access this data. 
 
